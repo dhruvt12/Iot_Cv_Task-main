@@ -31,7 +31,9 @@ python ColourIdentification.py -i nature.jpg
 ```
 
 ## Output
-![image](https://user-images.githubusercontent.com/68437847/118783468-b8d84900-b8ac-11eb-868b-c2e74df7f896.jpg)
+![Screenshot (98)](https://user-images.githubusercontent.com/68437847/118786340-57fe4000-b8af-11eb-9c65-bc2dac359dda.png)
+
+
 
 
   * It clearly identifies the color of the selected area in the image.
